@@ -11,7 +11,7 @@ Sentiment analysis on the **IMDb Movie Reviews dataset** using **Multinomial Nai
 - Multinomial Naive Bayes classification
 
 ### Result
-**Accuracy: 88%**
+**Accuracy: 84%**
 
 ### Tools
 Python • Pandas • NLTK • BeautifulSoup • Scikit-learn
