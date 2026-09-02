@@ -25,7 +25,7 @@ Survival prediction on the **Titanic dataset** using **Gradient Boosting**.
    - Final model selected by CV mean accuracy (not a single train/val split, which is noisy on this small dataset)
 
 ### Result
-**Accuracy: 85%**
+**Accuracy: 83.71%**
 
 ### Tools
 Python • NumPy • Pandas • Scikit-learn
